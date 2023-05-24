@@ -1,0 +1,1 @@
+data:image/svg+xml;charset=utf-8,%3Csvg data-name='Layerl 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 36'%3E%3Ccircle cx='18' cy='18' r='18' fill='%234d4d4d'/%3E%3Cpath d='M15.09 28.76v-9.41h-2v-3.24h2v-1.95c0-2.65 1.13-4.22 4.32-4.22h2.66v3.24h-1.66c-1.25 0-1.33.45-1.33 1.3v1.62h3l-.35 3.24h-2.65v9.41z' fill='%232d2d2d' fill-rule='evenodd'/%3E%3C/svg%3E

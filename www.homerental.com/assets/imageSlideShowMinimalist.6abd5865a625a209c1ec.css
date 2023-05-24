@@ -1,0 +1,127 @@
+._9bc6f06b {
+    margin: .8rem auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+    max-width: 6.4rem;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content
+}
+
+._786697f8 {
+    -webkit-transition: -webkit-transform .2s;
+    transition: -webkit-transform .2s;
+    transition: transform .2s;
+    transition: transform .2s, -webkit-transform .2s;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex
+}
+
+._786697f8 .b4af68e9 {
+    padding: .3rem;
+    margin: 0;
+    display: inline-block;
+    background-color: hsla(0, 0%, 100%, .4);
+    border-radius: 50%;
+    width: 0;
+    height: 0
+}
+
+._786697f8 .b4af68e9:not(:last-child) {
+    margin-left: 0;
+    margin-right: .8rem
+}
+
+._786697f8 ._52dd175c {
+    background-color: #fff;
+    padding: .4rem
+}
+
+._786697f8 .e730148c {
+    padding: .2rem
+}
+
+.e9648966 {
+    -webkit-transition-delay: .25s;
+    transition-delay: .25s;
+    position: absolute;
+    top: calc(50% - 2.1rem);
+    height: 4.2rem;
+    width: 4.2rem;
+    z-index: 1;
+    cursor: pointer;
+    border: none
+}
+
+.e9648966:hover {
+    opacity: 1
+}
+
+._44d73303 {
+    visibility: hidden;
+    opacity: 0
+}
+
+._44d73303,
+.f7fdb508 {
+    -webkit-transition: opacity .2s, visibility .2s;
+    transition: opacity .2s, visibility .2s
+}
+
+.f7fdb508 {
+    visibility: visible
+}
+
+.f7fdb508,
+.f7fdb508:hover {
+    opacity: .6
+}
+
+._36ad0c9b {
+    visibility: visible;
+    opacity: .6;
+    -webkit-transition: opacity .2s, visibility .2s;
+    transition: opacity .2s, visibility .2s
+}
+
+._5db0ece5 {
+    /*!rtl:ignore*/
+    left: .2rem
+}
+
+._365b421c {
+    /*!rtl:ignore*/
+    right: .2rem
+}
+
+._8177fe26 {
+    position: absolute;
+    bottom: 0;
+    height: 2.6rem;
+    width: 100%;
+    background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0, 0, 0, .4)));
+    background: linear-gradient(180deg, transparent, rgba(0, 0, 0, .4));
+    pointer-events: none
+}
+
+.d280d7da {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+    max-width: 6.4rem;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin: .5rem auto 1.1rem
+}
+
+.d503a0fe {
+    z-index: -1
+}

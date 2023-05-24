@@ -1,0 +1,1 @@
+data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 6' fill='%23dedede'%3E%3Cpath class='cls-1' d='M0 0l6 6 6-6H0z'/%3E%3C/svg%3E
